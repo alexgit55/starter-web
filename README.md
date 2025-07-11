@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 
-##Introduction
+## Introduction
 
 This repository is for showing how Git and GitHub work
 
@@ -9,4 +9,4 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-##How To Contribute
+## How To Contribute
