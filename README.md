@@ -20,4 +20,4 @@ Please fork this repo and then issue pull request for review.
 
 ### Copyright
 
-Alex 2025
+Alex 2025. All rights reserved
